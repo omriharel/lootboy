@@ -1,0 +1,7 @@
+*~
+*.pyc
+venv/
+pip-selfcheck.json
+*.egg-info
+.idea/*
+.DS_Store
